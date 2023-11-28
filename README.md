@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there 👋, my name is Eman
+#### I am GitHub Readme Generator's creator
+![I am GitHub Readme Generator's creator]("C:\Users\s4420\Downloads\WhatsApp Image 2023-11-29 at 1.17.48 AM.jpeg")
 
-<!--
-**EmanAlmuqati/EmanAlmuqati** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Is student in the Department of Information Systems at UQU, Interested in AI, mobile application development
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: JAVA/ REACT / JS / HTML5/ CSS/ Web Design/ Software development
+
+- 🔭 I’m currently working on this page. 
+
+
+
+
