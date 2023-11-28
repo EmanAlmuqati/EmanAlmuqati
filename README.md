@@ -5,7 +5,14 @@
 Is student in the Department of Information Systems at UQU, Interested in AI, mobile application development
 
 
-Skills: JAVA/ REACT / JS / HTML5/ CSS/ Web Design/ Software development
+Skills:
+*JAVA 
+*REACT 
+* JS
+*HTML5
+*CSS 
+*Web Design
+*Software development
 
 - 🔭 I’m currently working on this page. 
 
