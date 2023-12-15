@@ -7,8 +7,7 @@ Is student in the Department of Information Systems at UQU, Interested in AI, mo
 
 Skills:
  * JAVA 
- * REACT 
- * JS
+  * JS
  * HTML5
  * CSS 
  * Web Design
