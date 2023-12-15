@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Eman
 
 
-Is student in the Department of Information Systems at UQU, Interested in AI, mobile application development
+Student majoring in information systems in the software engineering department at UQU, Interested in AI, mobile application development
 
 
 Skills:
