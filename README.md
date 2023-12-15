@@ -1,5 +1,4 @@
 ### Hi there 👋, my name is Eman
-#### I am GitHub Readme Generator's creator
 
 
 Is student in the Department of Information Systems at UQU, Interested in AI, mobile application development
