@@ -11,6 +11,12 @@ Skills:
  * CSS 
  * Web Design
  * Software development
+ * Backend AI
+ * ML
+ * CNN
+ * Flutter
+ * Flask
+ * Python
 
 - 🔭 I’m currently working on this page. 
 
